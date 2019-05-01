@@ -1,6 +1,6 @@
-# new Event() polyfill based on mdn customEvent polyfill
+# new Event() polyfill
 
-> [CustomEvent](https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent/CustomEvent#Polyfill) polyfill.
+>  Based on [mdn customEvent](https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent/CustomEvent#Polyfill) polyfill.
 
 ## Installation
 
