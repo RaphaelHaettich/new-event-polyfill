@@ -17,8 +17,6 @@ import 'new-event-polyfill';
 
 // (CommonJS)
 require('new-event-polyfill');
-
-// and so on ...
 ```
 
 # Info
